@@ -1,7 +1,7 @@
 body::before{
     display: block;
     content: '';
-    height: 30px;
+    height: 40px;
 }
 
 @media(min-width: 768px){
